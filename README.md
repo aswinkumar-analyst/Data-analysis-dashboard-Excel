@@ -58,9 +58,7 @@ It enables management teams to monitor daily operations, identify bottlenecks, a
 
 ---
 
-## 🚀 How to Use
+## Dashboard Preview
 
-1. Download or clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/call-center-dashboard.git
+<img width="1006" height="456" alt="dashboard-img-excel" src="https://github.com/user-attachments/assets/906570b8-2eda-46c1-842e-81bdb360b7a9" />
 
